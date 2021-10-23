@@ -4,4 +4,4 @@
 
 Preview App
 
-<img src="https://i.imgur.com/DapwNUc.gif" width="40" height="40" />
+<img src="https://i.imgur.com/DapwNUc.gif" width="323" height="700" />
