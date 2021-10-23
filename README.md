@@ -4,4 +4,4 @@
 
 Preview App
 
-![alt-text](rick-morty.gif) 
+<img src="https://i.imgur.com/DapwNUc.gif" width="40" height="40" />
